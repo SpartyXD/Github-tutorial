@@ -1,7 +1,7 @@
 # TITULO EPICAMENTE EPICO
 
-## Subtitulo jodidamente epico
+## Subtitulo 1
+Texto 1
 
-### Sub subtitulo epico
-
+## Subtitulo 2
 Pulse aqui para añadir texto
